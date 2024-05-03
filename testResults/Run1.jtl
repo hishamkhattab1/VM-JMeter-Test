@@ -59,3 +59,15 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1714711117340,332,Action = none,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
 1714711117677,158,Logout,200,OK,Thread Group 1-1,text,true,,13,9,1,1,null,0,0,0
 1714711117836,318,Action = <EOF>,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
+1714711208436,137,Login as u1,200,OK,Thread Group 1-1,text,true,,15,28,1,1,null,0,0,0
+1714711208614,313,Action = none,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
+1714711209182,116,Action a,200,OK,Thread Group 1-1,text,true,,12,16,1,1,null,0,0,0
+1714711209307,243,Action b,200,OK,Thread Group 1-1,text,true,,12,16,1,1,null,0,0,0
+1714711209569,250,Action c,200,OK,Thread Group 1-1,text,true,,12,16,1,1,null,0,0,0
+1714711209833,257,Action d,200,OK,Thread Group 1-1,text,true,,12,16,1,1,null,0,0,0
+1714711210106,277,Logout,200,OK,Thread Group 1-1,text,true,,13,9,1,1,null,0,0,0
+1714711210384,300,Action = <EOF>,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
+1714711210686,346,Login as u2,200,OK,Thread Group 1-1,text,true,,15,28,1,1,null,0,0,0
+1714711211034,183,Action = none,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
+1714711211225,121,Logout,200,OK,Thread Group 1-1,text,true,,13,9,1,1,null,0,0,0
+1714711211346,241,Action = <EOF>,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
