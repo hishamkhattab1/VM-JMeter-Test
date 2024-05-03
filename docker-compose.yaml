@@ -4,6 +4,6 @@ services:
     volumes:
       - /root/jmeter/apache-jmeter-5.6.3/bin:/opt/apache-jmeter-5.6.3/bin
       - /root/jmeter/jmeter/testResults:/opt/apache-jmeter-5.6.3/bin/testResults
-    command: ["-n", "-t", "bin/examples/CSVSample.jmx", "-l", "bin/testResults/Run1.jtl"]
+    command: ["-n", "-t", "bin/examples/*.jmx", "-l", "bin/testResults/Run1.jtl"]
 volumes:
   jmeter:
